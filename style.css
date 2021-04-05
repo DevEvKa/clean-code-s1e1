@@ -55,7 +55,7 @@ input, button{
   flex-grow: 1;
 }
 
-.manipulate_tasks_button {
+.manipulate_tasks_btn {
   background: none;
   border: 0px;
   color: #888;
@@ -66,7 +66,7 @@ input, button{
   outline:none;
 }
 
-.manipulate_tasks_button:hover {
+.manipulate_tasks_btn:hover {
   color: #3a3a3a;
 }
 
